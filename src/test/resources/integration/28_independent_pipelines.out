@@ -1,0 +1,13 @@
+=== Machine Utilisation ===
+  Ore Mine:            100.0%
+  Ore Smelter:         100.0%
+  Copper Mine:          50.0%
+  Copper Processor:    100.0%
+
+=== Belt Throughput ===
+  ore_belt:            600.0 / min (Ore)
+  copper_belt:         180.0 / min (Copper Ore)
+
+=== Sink ===
+  Ingot:               240.0 / min
+  Wire:                 90.0 / min

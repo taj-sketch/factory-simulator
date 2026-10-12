@@ -1,0 +1,12 @@
+=== Machine Utilisation ===
+  Refinery:         100.0%
+  Fuel Consumer:    100.0%
+  Slag Consumer:    100.0%
+
+=== Belt Throughput ===
+  fuel_belt:        300.0 / min (Fuel)
+  slag_belt:        180.0 / min (Slag)
+
+=== Sink ===
+  Product:           60.0 / min
+  Waste:             60.0 / min

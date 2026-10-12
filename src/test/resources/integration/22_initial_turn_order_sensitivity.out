@@ -1,0 +1,10 @@
+=== Machine Utilisation ===
+  Mine A:            100.0%
+  Ore Consumer 1:    100.0%
+  Ore Consumer 2:      0.0%
+
+=== Belt Throughput ===
+  ore_belt:          240.0 / min (Ore)
+
+=== Sink ===
+  FirstOut:           60.0 / min

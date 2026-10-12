@@ -1,0 +1,11 @@
+=== Machine Utilisation ===
+  Single Item Source:    100.0%
+  Ore Processor A:       8.3%
+  Ore Processor B:       8.3%
+
+=== Belt Throughput ===
+  ore_belt:               60.0 / min (Ore)
+
+=== Sink ===
+  A_Out:                   5.0 / min
+  B_Out:                   5.0 / min

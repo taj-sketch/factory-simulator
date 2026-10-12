@@ -1,0 +1,22 @@
+=== Machine Utilisation ===
+  Iron Mine:             50.0%
+  Copper Mine:           39.0%
+  Iron Smelter A:        62.5%
+  Iron Smelter B:        62.5%
+  Copper Smelter A:      46.8%
+  Copper Smelter B:      46.8%
+  Wire Maker A:          46.8%
+  Wire Maker B:          46.8%
+  Motor Assembler A:     62.3%
+  Motor Assembler B:     62.3%
+  Motor Assembler C:     62.3%
+
+=== Belt Throughput ===
+  iron_ore_belt:        450.0 / min (Iron Ore)
+  copper_ore_belt:      281.0 / min (Copper Ore)
+  iron_ingot_belt:      225.0 / min (Iron Ingot)
+  copper_ingot_belt:    168.6 / min (Copper Ingot)
+  wire_belt:            112.2 / min (Copper Wire)
+
+=== Sink ===
+  Motor:                 56.1 / min

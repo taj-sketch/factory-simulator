@@ -1,0 +1,11 @@
+=== Machine Utilisation ===
+  Oil Well:         40.0%
+  Refinery:         50.0%
+  Cracker:         100.0%
+
+=== Belt Throughput ===
+  crude_belt:      300.0 / min (Crude Oil)
+  residue_belt:    150.0 / min (Residue)
+
+=== Sink ===
+  Fuel:            270.0 / min

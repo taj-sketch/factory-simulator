@@ -1,0 +1,12 @@
+=== Machine Utilisation ===
+  Ore Mine:          20.0%
+  Splitter:          20.0%
+  Slop Consumer:    100.0%
+
+=== Belt Throughput ===
+  ore_belt:         120.0 / min (Ore)
+  slop_belt:         60.0 / min (Slop)
+
+=== Sink ===
+  Waste:             12.0 / min
+  FastOut:           60.0 / min

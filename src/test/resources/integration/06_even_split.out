@@ -1,0 +1,10 @@
+=== Machine Utilisation ===
+  Ore Mine:     100.0%
+  Smelter A:    100.0%
+  Smelter B:    100.0%
+
+=== Belt Throughput ===
+  ore_belt:     600.0 / min (Ore)
+
+=== Sink ===
+  Ingot:        600.0 / min

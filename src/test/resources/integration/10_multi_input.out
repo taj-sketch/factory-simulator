@@ -1,0 +1,11 @@
+=== Machine Utilisation ===
+  Iron Mine:      100.0%
+  Copper Mine:    100.0%
+  Assembler:      100.0%
+
+=== Belt Throughput ===
+  iron_belt:      600.0 / min (Iron)
+  copper_belt:    300.0 / min (Copper)
+
+=== Sink ===
+  Circuit:        120.0 / min

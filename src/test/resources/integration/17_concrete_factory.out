@@ -1,0 +1,13 @@
+=== Machine Utilisation ===
+  Limestone Mine:       11.0%
+  Gravel Mine:           5.7%
+  Limestone Cement:     33.3%
+  Concrete Factory:    100.0%
+
+=== Belt Throughput ===
+  limestone_belt:      400.0 / min (Limestone)
+  gravel_belt:         200.0 / min (Gravel)
+  cement_belt:         200.0 / min (Cement)
+
+=== Sink ===
+  Concrete:            400.0 / min

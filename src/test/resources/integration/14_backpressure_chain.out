@@ -1,0 +1,11 @@
+=== Machine Utilisation ===
+  Ore Mine:         33.3%
+  Smelter:          33.3%
+  Slow Crafter:    100.0%
+
+=== Belt Throughput ===
+  ore_belt:        200.0 / min (Ore)
+  ingot_belt:      200.0 / min (Ingot)
+
+=== Sink ===
+  Product:         100.0 / min
